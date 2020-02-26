@@ -29,8 +29,8 @@ Adafruit_SSD1306 display(OLED_RESET);
 HTU21D HTU;
 
 // 設定無線基地台SSID跟密碼
-const char* ssid     = "ASUS-G";
-const char* password = "0922235662";
+const char* ssid     = "*****";
+const char* password = "*****";
 // 設定樹莓派 MQTT Broker 的 IP
 const char* mqtt_server = "192.168.50.207";
 // 初始化 espClient.
